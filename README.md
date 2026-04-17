@@ -85,7 +85,7 @@ This privacy policy may be updated from time to time. Any changes will be reflec
 
 ## Contact
 
-If you have questions or concerns about this privacy policy, you can open an issue on the [GitHub repository](https://github.com) or reach out via the extension's support page.
+If you have questions or concerns about this privacy policy, you can open an issue on the [GitHub repository]([https://github.com](https://github.com/Parpification/Lectio-Pro)).
 
 ---
 
